@@ -10,3 +10,9 @@ The following dependencies must be met in order to run the code:
  * Flask: http://flask.pocoo.org/
  * Graphviz: http://graphviz.org/
  * pygraphviz
+
+## Configuration
+
+A list of people and their interests/technologies needs to be created and
+placed in a file called `people.json`. See `people-sample.json` for an example
+of how the file should be structured.

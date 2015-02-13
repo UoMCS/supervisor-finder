@@ -1,0 +1,13 @@
+{
+    "Joe Bloggs": {
+        "interests": [
+            "Text mining",
+            "Natural language processing",
+            "Language technology"
+        ],
+        "technologies": [
+            "UIMA",
+            "MapReduce"
+        ]
+    }
+}
